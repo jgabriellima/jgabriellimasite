@@ -4,7 +4,7 @@ Meu site pessoal onde abordo minha trajetória profissional, meus serviços e me
 
 ## Conteúdo Livre
 
-Meu objetivo em divulgar este repositório é par que outras pessoas possam melhorar o que foi feito e/ou reutilizarem esta abordagem em outrous projetos.
+Meu objetivo em divulgar este repositório é para que outras pessoas possam melhorar o que foi feito e/ou reutilizarem esta abordagem em outros projetos.
 Caso precisem de algo, entrem em contato comigo. Ficarei feliz em ajudar.
 
 ## O que usei ?
